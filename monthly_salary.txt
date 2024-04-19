@@ -1,0 +1,17 @@
+Дмитро Петров salary:17248.00 including premium:0.00
+Василь Карась salary:13638.24 including premium:1239.84
+Сергій Ковальов salary:7592.20 including premium:690.20
+Степан Ковальов salary:9860.00 including premium:0.00
+Олег Мельник salary:9268.40 including premium:0.00
+Давід Ольха salary:15514.40 including premium:1410.40
+Михайло Корбан salary:8497.60 including premium:0.00
+Юрій Стус salary:5170.88 including premium:470.08
+Ірина Дубова salary:5896.80 including premium:280.80
+Катерина Носова salary:5928.00 including premium:0.00
+Галина Карпова salary:10353.42 including premium:941.22
+Василь Голуб salary:16126.88 including premium:1466.08
+Марина Єрмак salary:7783.44 including premium:370.64
+Олена Іванова salary:2520.00 including premium:0.00
+Ганна Гречка salary:2772.00 including premium:252.00
+
+Lego_ua 4th month salary (15 workers): 138170.26

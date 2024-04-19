@@ -1,0 +1,10 @@
+manufacture head 98
+manufacture master 75.6
+manufacture worker 49.3
+stock head 82
+stock worker 45.2
+sales manager 39
+sales top-manager 56.7
+accounting head 95.2
+accounting worker 45.2
+cleaning worker 21
